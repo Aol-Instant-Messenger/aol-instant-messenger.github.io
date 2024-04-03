@@ -7,9 +7,17 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <html>
   <head>
     <link rel="stylesheet" href="NA.css"/>
+    <link rel="icon" href="icon.svg"/>
+    <title>Nothing</title>
   </head>
   <body>
-    <h3>Hello</h3>
+    <h3>There is nothing here</h3>
+
+    <p>This xml file is almost completely empty.</p>
+    <p>I thought it would be funny to make it have a stylesheet with html and for that stylesheet to have its own stylesheet.</p>
+    <button class="index" onclick="window.location.href='index.html';">
+        Homepage
+    </button>
   </body>
   </html>
 </xsl:template>

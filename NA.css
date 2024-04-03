@@ -3,3 +3,21 @@ h3 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+button {
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor:grab;
+}
+
+button.index {
+    position: fixed;
+    bottom: 0.1%;
+    right: 0.1%;
+    background-color: white;
+    cursor: wait;
+}

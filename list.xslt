@@ -25,6 +25,8 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 			font-family:sans-serif;
 			}
 	</style>
+	<link rel="icon" href=""/>
+	<title>List</title>
   </head>
   <body>
     <h2>My List</h2>
