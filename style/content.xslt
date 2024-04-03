@@ -6,7 +6,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:template match="/">
   <html>
   <head>
-	<link rel="stylesheet" type="text/css" href="content.css"/>
+	<link rel="stylesheet" type="text/css" href="style/content.css"/>
 	<link rel="icon" href="https://www.youtube.com/s/desktop/ca23eea5/img/favicon.ico"/>
 	<title>My Content</title>
   </head>
