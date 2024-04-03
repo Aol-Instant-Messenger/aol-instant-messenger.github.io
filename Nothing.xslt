@@ -6,8 +6,8 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:template match="/">
   <html>
   <head>
-    <link rel="stylesheet" href="NA.css"/>
-    <link rel="icon" href="icon.svg"/>
+    <link rel="stylesheet" href="Nothing.css"/>
+    <link rel="icon" href="nothing.svg"/>
     <title>Nothing</title>
   </head>
   <body>
