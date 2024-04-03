@@ -12,7 +12,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 			color: #000000;
 		}
 		h2 {
-			font-family:calluna,calibri,sans-seerif;
+			font-family:calluna,calibri,sans-serif;
 			text-align:center;
 			}
 		.right {
