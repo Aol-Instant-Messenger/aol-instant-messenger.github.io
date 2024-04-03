@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="list.xslt"?>
+
+<list>
+	<table>
+		<item>
+			<title>TI-84 Plus CE</title>
+			<desc>Calculator</desc>
+			<link>https://www.amazon.com/gp/product/B00TFYYWQA/</link>
+		</item>
+		<item>
+			<title>Nerds Gummy Clusters</title>
+			<desc>8oz</desc>
+			<link>https://www.amazon.com/dp/B08LGD7WRZ/</link>
+		</item>
+	</table>
+
+
+	<right>
+		<item>
+			<title>Email</title>
+			<link>mailto:s-lovernn@bsd405.org</link>
+		</item>
+		<item>
+			<title>CDs (example)</title>
+			<link>Example.xml</link>
+		</item>
+	</right>
+
+</list>
