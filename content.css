@@ -1,3 +1,9 @@
+body {
+    text-align: left;
+    background-color: ghostwhite;
+
+}
+
 button {
     border: none;
     padding: 15px 32px;
@@ -11,9 +17,9 @@ button {
 button.right {
     position:absolute;
 }
-button.source {
-    background-color: antiquewhite;
-    position:fixed;
-    bottom: 0.4%;
-    right:0.4%;
+button.index {
+    position: fixed;
+    bottom: 0.1%;
+    right: 0.1%;
+    background-color: white;
 }

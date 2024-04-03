@@ -20,9 +20,9 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 	</xsl:for-each>
 	</div>
 
-    <button class="source" onclick="window.location.href='https://github.com/Aol-Instant-Messenger/aol-instant-messenger.github.io';">
-        Source
-      </button>
+    <button class="index" onclick="window.location.href='index.html';">
+        Homepage
+    </button>
 
   </body>
   </html>
