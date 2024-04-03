@@ -1,0 +1,19 @@
+button {
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+button.right {
+    position:absolute;
+}
+button.source {
+    background-color: antiquewhite;
+    position:fixed;
+    bottom: 0.4%;
+    right:0.4%;
+}
