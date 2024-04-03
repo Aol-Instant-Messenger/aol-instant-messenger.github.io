@@ -17,10 +17,10 @@
 
 
 	<right>
-		<item>
-			<!-- <title>Email</title>
-			<link>mailto:s-lovernn@bsd405.org</link> -->
-		</item>
+		<!-- <item>
+			<title>Email</title>
+			<link>mailto:s-lovernn@bsd405.org</link>
+		</item> -->
 		<item>
 			<title>CDs (example)</title>
 			<link>Example.xml</link>
