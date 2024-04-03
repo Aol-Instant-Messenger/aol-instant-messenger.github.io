@@ -18,12 +18,16 @@
 
 	<right>
 		<!-- <item>
-			<title>Email</title>
-			<link>mailto:s-lovernn@bsd405.org</link>
-		</item> -->
-		<item>
 			<title>CDs (example)</title>
 			<link>Example.xml</link>
+		</item> -->
+		<item>
+			<title>Homepage</title>
+			<link>index.html</link>
+		</item>
+		<item>
+			<title>XHTML</title>
+			<link>NA.xml</link>
 		</item>
 	</right>
 
