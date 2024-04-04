@@ -7,7 +7,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <html>
   <head>
     <link rel="stylesheet" href="style/Nothing.css"/>
-    <link rel="icon" href="nothing.svg"/>
+    <link rel="icon" href="icon/nothing.svg"/>
     <title>Nothing</title>
   </head>
   <body>

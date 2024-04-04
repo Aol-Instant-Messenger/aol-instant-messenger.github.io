@@ -7,6 +7,8 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <html>
   <head>
     <link rel="stylesheet" type="text/css" href="style/Nothing.css"/>
+    <link rel="icon" href="icon/something.svg"/>
+    <title>Something</title>
   </head>
     <body style="background-color: #333333; color: whitesmoke;">
         <h3>
