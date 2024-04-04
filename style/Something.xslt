@@ -8,7 +8,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <head>
     <link rel="stylesheet" type="text/css" href="style/Nothing.css"/>
   </head>
-    <body style="background-color: #333333;">
+    <body style="background-color: #333333; color: whitesmoke;">
         <h3>
             <xsl:value-of select="root/include/title"/>
         </h3>
@@ -17,7 +17,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                 <xsl:value-of select="text"/>
             </p>
         </xsl:for-each>
-        <button class="index" onclick="window.location.href='index.html';" style="background-color: #444444;">
+        <button class="index" onclick="window.location.href='index.html';" style="background-color: #444444; color: whitesmoke;">
             Homepage
         </button>
     </body>
