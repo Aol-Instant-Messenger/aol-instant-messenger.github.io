@@ -15,6 +15,8 @@
             <link>https://www.instagram.com/phleggmboii</link>
             <bgimage>linear-gradient(150grad, #405DE6, #E1306C, #FCAF45)</bgimage>
             <color>white</color>
+            <font>Belarus, calibri, sans-serif</font>
+            <fsize>20px</fsize>
         </item>
 
 

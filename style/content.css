@@ -2,6 +2,10 @@
     font-family: Oswald;
     src: url(../fonts/Oswald-Regular.woff2);
 }
+@font-face {
+    font-family: Belarus;
+    src: url(../fonts/Belarus.woff2);
+}
 
 body {
     text-align: left;
