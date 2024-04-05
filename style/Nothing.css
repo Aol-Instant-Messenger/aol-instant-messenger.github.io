@@ -1,9 +1,3 @@
-@font-face {
-    font-family: Oswald;
-    src: url(../fonts/Oswald-VariableFont_wght.ttf);
-}
-
-
 body {
     text-align: left;
     background-color: ghostwhite;
@@ -28,7 +22,7 @@ button {
 
 button.index {
     position: fixed;
-    bottom: 0.1%;
-    right: 0.1%;
+    bottom: 0.4%;
+    right: 0.4%;
     background-color: white;
 }
