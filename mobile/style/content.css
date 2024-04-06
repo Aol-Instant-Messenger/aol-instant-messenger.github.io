@@ -1,20 +1,17 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+@font-face {
+    font-family: Oswald;
+    src: url(../fonts/Oswald-Regular.woff2);
+}
+@font-face {
+    font-family: Belarus;
+    src: url(../fonts/Belarus.woff2);
+}
+
 body {
     text-align: left;
     background-color: ghostwhite;
-    font-family: Ubuntu, "Roboto", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-    cursor: default;
-}
-
-h3 {
-    text-align: center;
-    font-family: 'Josefin Sans', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: large;
 }
 
 button {
@@ -24,14 +21,16 @@ button {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+    font-family: Roboto, sans-serif;
     margin: 4px 2px;
     cursor: pointer;
 }
-
+button.right {
+    position:absolute;
+}
 button.index {
     position: fixed;
-    bottom: 0.4%;
-    right: 0.4%;
+    bottom: 0.1%;
+    right: 0.1%;
     background-color: white;
-    font-family: Ubuntu, Roboto, sans-serif;
 }

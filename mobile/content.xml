@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="style/content.xslt" type="text/xsl"?>
+<root>
+    <CC>
+        <item>
+            <title>YouTube</title>
+            <link>https://youtube.com/@phleggmboi</link>
+            <bgcolor>#ff0000</bgcolor>
+            <color>#282828</color>
+            <font>Oswald, calibri, sans-serif</font>
+            <fsize>20px</fsize>
+        </item>
+        <item>
+            <title>Instagram</title>
+            <link>https://www.instagram.com/phleggmboii</link>
+            <bgimage>linear-gradient(150grad, #405DE6, #E1306C, #FCAF45)</bgimage>
+            <color>white</color>
+            <font>Belarus, calibri, sans-serif</font>
+            <fsize>20px</fsize>
+        </item>
+
+
+
+
+    </CC>
+</root>

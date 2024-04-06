@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="style/Something.xslt" type="text/xsl"?>
+
+<root>
+    <include>
+        <title>&#84;h&#101;r&#101; is so&#109;&#101;&#116;hing h&#101;r&#101;</title>
+        <para>
+            <text>This XML document has much more than meets the eye</text>
+        </para>
+        <para>
+            <text>Don't believe me? Press Ctrl+U</text>
+        </para>
+    </include> <!-- beans -->
+
+    <exclude>
+        <accusation>You must not have trusted me</accusation>
+        <option2>or maybe you were just curious</option2>
+        <statement>I'm not a liar</statement>
+        <statement>Do you believe me?</statement>
+        <statement>It <i>does</i> have more than is regularly displayed</statement>
+        <fact>Whether you  consider it to be "much" more is up to you</fact>
+    </exclude>
+</root>
