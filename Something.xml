@@ -16,8 +16,8 @@
         <accusation>You must not have trusted me</accusation>
         <option2>or maybe you were just curious</option2>
         <statement>I'm not a liar</statement>
-        <statement>Do you believe me?</statement>
-        <statement>It <i>does</i> have more than is regularly displayed</statement>
+        <question>Do you believe me?</question>
+        <fact>It <i>does</i> have more than is regularly displayed</fact>
         <fact>Whether you  consider it to be "much" more is up to you</fact>
     </exclude>
 </root>
