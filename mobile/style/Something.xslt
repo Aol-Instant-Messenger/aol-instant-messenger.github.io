@@ -20,6 +20,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                 <xsl:value-of select="text"/>
             </p>
         </xsl:for-each>
+        <p>Don't believe me? <a href="https://raw.githubusercontent.com/Aol-Instant-Messenger/aol-instant-messenger.github.io/main/Something.xml" target="_blank">Look at the source!</a></p>
         <button class="index" onclick="window.location.href='/mobile/';" style="background-color: #444444; color: whitesmoke;">
             Homepage
         </button>

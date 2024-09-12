@@ -7,6 +7,7 @@ body {
     background-color: ghostwhite;
     font-family: Ubuntu, "Roboto", sans-serif;
     font-weight: 400;
+    font-size: 212%;
     font-style: normal;
     cursor: default;
 }
@@ -14,18 +15,19 @@ body {
 h3 {
     text-align: center;
     font-family: 'Josefin Sans', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: large;
+    
 }
 
 button {
     border: none;
-    padding: 15px 32px;
+    padding: 4% 8%;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-size: 212%;
     margin: 4px 2px;
     cursor: pointer;
+    font-family: Ubuntu, Roboto, sans-serif;
 }
 
 button.index {
