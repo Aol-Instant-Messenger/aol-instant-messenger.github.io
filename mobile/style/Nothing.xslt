@@ -16,7 +16,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
     <p>This xml file is almost completely empty.</p>
     <p>Don't believe me? Press Ctrl+U</p>
-    <button class="index" onclick="window.location.href='/';">
+    <button class="index" onclick="window.location.href='/mobile/';">
         Homepage
     </button>
   </body>

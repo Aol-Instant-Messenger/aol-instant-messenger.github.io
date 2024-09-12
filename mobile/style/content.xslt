@@ -27,7 +27,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   </ul>
 	</div>
 
-    <button class="index" onclick="window.location.href='/';">
+    <button class="index" onclick="window.location.href='/mobile/';">
         Homepage
     </button>
 
