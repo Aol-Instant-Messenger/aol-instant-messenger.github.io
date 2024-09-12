@@ -5,6 +5,9 @@
 body {
     text-align: left;
     background-color: ghostwhite;
+}
+
+p {
     font-family: Ubuntu, "Roboto", sans-serif;
     font-weight: 400;
     font-size: 212%;
@@ -31,9 +34,8 @@ button {
 }
 
 button.index {
-    position: fixed;
-    bottom: 0.4%;
-    right: 0.4%;
     background-color: white;
-    font-family: Ubuntu, Roboto, sans-serif;
+    position:fixed;
+    bottom: 0.4%;
+    right:0.4%;
 }
