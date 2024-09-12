@@ -14,13 +14,17 @@ body {
     background-color: ghostwhite;
 }
 
+p {
+    margin-bottom: 4%;
+}
+
 button {
     border: none;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-size: 212%;
     font-family: Ubuntu, Roboto, sans-serif;
     margin: 4px 2px;
     cursor: pointer;
