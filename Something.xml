@@ -8,16 +8,16 @@
             <text>This XML document has much more than meets the eye</text>
         </para>
         <para>
-            <text>Don't believe me? Press Ctrl+U</text>
+            <link>Don't believe me? <url>https://raw.githubusercontent.com/Aol-Instant-Messenger/aol-instant-messenger.github.io/main/Something.xml</url>Look at the source!</link>
         </para>
-    </include> <!-- beans -->
+    </include>
 
     <exclude>
         <accusation>You must not have trusted me</accusation>
         <option2>or maybe you were just curious</option2>
         <statement>I'm not a liar</statement>
-        <question>Do you believe me?</question>
-        <fact>It <i>does</i> have more than is regularly displayed</fact>
+        <statement>Do you believe me?</statement>
+        <statement>It <i>does</i> have more than is regularly displayed</statement>
         <fact>Whether you  consider it to be "much" more is up to you</fact>
     </exclude>
 </root>
