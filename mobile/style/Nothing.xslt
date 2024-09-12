@@ -15,7 +15,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <h3>There is nothing here</h3>
 
     <p>This xml file is almost completely empty.</p>
-    <p>Don't believe me? <a href="https://raw.githubusercontent.com/Aol-Instant-Messenger/aol-instant-messenger.github.io/main/Nothing.xml" target="_blank">Look at the source!</a></p>
+    <p>Don't believe me? <a href="https://raw.githubusercontent.com/Aol-Instant-Messenger/aol-instant-messenger.github.io/main/mobile/Nothing.xml" target="_blank">Look at the source!</a></p>
     <button class="index" onclick="window.location.href='/mobile/';">
         Homepage
     </button>
