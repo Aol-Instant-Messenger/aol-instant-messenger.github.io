@@ -20,7 +20,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                 <xsl:value-of select="text"/>
             </p>
         </xsl:for-each>
-        <button class="index" onclick="window.location.href='index.html';" style="background-color: #444444; color: whitesmoke;">
+        <button class="index" onclick="window.location.href='/';" style="background-color: #444444; color: whitesmoke;">
             Homepage
         </button>
     </body>
