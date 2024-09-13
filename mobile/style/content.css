@@ -9,32 +9,32 @@
     src: url(../../fonts/Belarus.woff2);
 }
 
+p {
+    margin-bottom: 6%;
+}
+
 body {
     text-align: left;
     background-color: ghostwhite;
 }
 
-p {
-    margin-bottom: 4%;
-}
-
 button {
     border: none;
-    padding: 15px 32px;
+    padding: 4% 8%;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 212%;
-    font-family: Ubuntu, Roboto, sans-serif;
     margin: 4px 2px;
     cursor: pointer;
+    font-family: Ubuntu, Roboto, sans-serif;
 }
 button.right {
     position:absolute;
 }
 button.index {
     position: fixed;
-    bottom: 0.1%;
-    right: 0.1%;
+    bottom: 0.4%;
+    right: 0.4%;
     background-color: white;
 }
