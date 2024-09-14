@@ -14,20 +14,26 @@ body {
     background-color: ghostwhite;
 }
 
+
+
 button {
     border: none;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
-    font-family: Ubuntu, Roboto, sans-serif;
-    margin: 4px 2px;
+    font-size: 20px;
     cursor: pointer;
+    margin: 4px;
+    font-family: Ubuntu, Roboto, sans-serif;
 }
-button.right {
-    position:absolute;
+
+p {
+    margin: 0 16px 3px;
+
 }
+
+
 button.index {
     position: fixed;
     bottom: 0.1%;

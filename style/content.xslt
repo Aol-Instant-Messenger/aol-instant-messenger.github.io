@@ -13,18 +13,13 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   </head>
   <body>
 	<div class="content">
-    <ul>
 	<xsl:for-each select="root/CC/item">
   <p>
-    <br/>
-  <li>
 		<button class="right" onclick="window.location.href='{link}';" style="background-color: {bgcolor}; background-image: {bgimage}; color: {color}; font-family: {font}; font-size: {fsize}">
             <xsl:value-of select="title"/>
           </button>
-        </li>
         </p>
 	</xsl:for-each>
-  </ul>
 	</div>
 
     <button class="index" onclick="window.location.href='/';">

@@ -8,7 +8,7 @@
             <bgcolor>#ff0000</bgcolor>
             <color>#282828</color>
             <font>Oswald, calibri, sans-serif</font>
-            <fsize>20px</fsize>
+            <fsize>25px</fsize>
         </item>
         <item>
             <title>Instagram</title>
@@ -16,7 +16,7 @@
             <bgimage>linear-gradient(150grad, #405DE6, #E1306C, #FCAF45)</bgimage>
             <color>white</color>
             <font>Belarus, calibri, sans-serif</font>
-            <fsize>20px</fsize>
+            <fsize>25px</fsize>
         </item>
 
 
