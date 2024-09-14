@@ -9,10 +9,6 @@
     src: url(../../fonts/Belarus.woff2);
 }
 
-p {
-    margin-bottom: 6%;
-}
-
 body {
     text-align: left;
     background-color: ghostwhite;
@@ -24,17 +20,19 @@ button {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 212%;
+    font-size: 220%;
     margin: 4px 2px;
     cursor: pointer;
     font-family: Ubuntu, Roboto, sans-serif;
 }
-button.right {
-    position:absolute;
+
+p {
+margin: 1em 3% 2%;
 }
+
 button.index {
     position: fixed;
-    bottom: 0.4%;
-    right: 0.4%;
+    bottom: 0.7%;
+    right: 0.7%;
     background-color: white;
 }

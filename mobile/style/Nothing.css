@@ -31,15 +31,15 @@ button {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 212%;
+    font-size: 220%;
     margin: 4px 2px;
     cursor: pointer;
     font-family: Ubuntu, Roboto, sans-serif;
 }
 
 button.index {
-    background-color: white;
-    position:fixed;
+    position: fixed;
     bottom: 0.4%;
-    right:0.4%;
+    right: 0.4%;
+    background-color: white;
 }
