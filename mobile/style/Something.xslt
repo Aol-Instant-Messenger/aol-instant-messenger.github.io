@@ -7,7 +7,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <html>
   <head>
     <script src="scripts/desktop_something.js"></script>
-    <link rel="stylesheet" type="text/css" href="style/Nothing.css"/>
+    <link rel="stylesheet" type="text/css" href="style/About.css"/>
     <link rel="icon" href="../icon/something.svg"/>
     <title>Something</title>
   </head>
@@ -23,6 +23,9 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
         <p>Don't believe me? <a href="https://raw.githubusercontent.com/Aol-Instant-Messenger/aol-instant-messenger.github.io/main/mobile/Something.xml" target="_blank" style="color: whitesmoke;">Look at the source!</a></p>
         <button class="index" onclick="window.location.href='/mobile/';" style="background-color: #444444; color: whitesmoke;">
             Homepage
+        </button>
+        <button class="about" onclick="window.location.href='/mobile/About.xml';" style="background-color: #444444; color: whitesmoke; position:fixed; bottom: 0.4%; left:0.4%;">
+          About Me
         </button>
     </body>
   </html>

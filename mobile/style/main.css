@@ -17,6 +17,13 @@ p {
     margin: 1em 3% 2%;
 }
 
+button.about {
+    background-color: white;
+    position:fixed;
+    bottom: 0.4%;
+    left:0.4%;
+}
+
 button.source {
     background-color: antiquewhite;
     position:fixed;

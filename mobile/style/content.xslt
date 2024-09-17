@@ -25,6 +25,9 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <button class="index" onclick="window.location.href='/mobile/';">
         Homepage
     </button>
+    <button class="about" onclick="window.location.href='/mobile/About.xml';">
+      About Me
+    </button>
 
   </body>
   </html>

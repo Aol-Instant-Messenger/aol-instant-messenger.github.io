@@ -21,8 +21,8 @@ p {
 button.about {
     background-color: white;
     position:fixed;
-    top: 0.4%;
-    right:0.4%;
+    bottom: 0.4%;
+    left:0.4%;
 }
 
 button.source {

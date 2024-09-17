@@ -26,6 +26,13 @@ button {
     font-family: Ubuntu, Roboto, sans-serif;
 }
 
+button.about {
+    background-color: white;
+    position:fixed;
+    bottom: 0.4%;
+    left:0.4%;
+}
+
 p {
 margin: 1em 3% 2%;
 }

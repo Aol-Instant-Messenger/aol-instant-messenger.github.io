@@ -23,6 +23,9 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
         <button class="index" onclick="window.location.href='/';" style="background-color: #444444; color: whitesmoke;">
             Homepage
         </button>
+        <button class="about" onclick="window.location.href='/About.xml';" style="background-color: #444444; color: whitesmoke; position:fixed; bottom: 0.4%; left:0.4%;">
+          About Me
+        </button>
     </body>
   </html>
 </xsl:template>
