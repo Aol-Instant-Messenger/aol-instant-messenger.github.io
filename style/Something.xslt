@@ -7,7 +7,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <html>
   <head>
     <script src="scripts/mobile_something.js"></script>
-    <link rel="stylesheet" type="text/css" href="style/Nothing.css"/>
+    <link rel="stylesheet" type="text/css" href="style/About.css"/>
     <link rel="icon" href="icon/something.svg"/>
     <title>Something</title>
   </head>

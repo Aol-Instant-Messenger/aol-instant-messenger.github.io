@@ -18,6 +18,13 @@ p {
 
 }
 
+button.about {
+    background-color: white;
+    position:fixed;
+    top: 0.4%;
+    right:0.4%;
+}
+
 button.source {
     background-color: antiquewhite;
     position:fixed;
