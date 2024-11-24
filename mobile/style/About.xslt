@@ -7,7 +7,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <html>
   <head>
     <script src="scripts/desktop_about.js"></script>
-    <script src="../../scripts/age.js"></script>
+    <script src="../scripts/age.js"></script>
     <link rel="stylesheet" href="style/About.css"/>
     <link rel="icon" href="../icon/nothing.svg"/>
     <title>About Me</title>
