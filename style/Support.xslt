@@ -6,20 +6,18 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:template match="/">
   <html>
   <head>
-    <script src="scripts/mobile_something.js"></script>
+    <script src="scripts/mobile_support.js"></script>
     <link rel="stylesheet" type="text/css" href="style/About.css"/>
     <link rel="icon" href="icon/something.svg"/>
-    <title>Something</title>
+    <title>Ads</title>
+
+    <meta name="google-adsense-account" content="ca-pub-7334286159966891"></meta>
+
   </head>
     <body style="background-color: #333333; color: whitesmoke;">
         <h3>
-            <xsl:value-of select="root/include/title"/>
+            Ads
         </h3>
-        <xsl:for-each select="root/include/para">
-            <p>
-                <xsl:value-of select="text"/>
-            </p>
-        </xsl:for-each>
         <button class="index" onclick="window.location.href='/';" style="background-color: #444444; color: whitesmoke;">
             Homepage
         </button>
