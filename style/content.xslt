@@ -14,11 +14,16 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <body>
 	<div class="content">
 	<xsl:for-each select="root/CC/item">
-  <p>
+  <!-- <p>
 		<button class="right" onclick="window.location.href='{link}';" style="background-color: {bgcolor}; background-image: {bgimage}; color: {color}; font-family: {font}; font-size: {fsize}">
             <xsl:value-of select="title"/>
           </button>
-        </p>
+        </p> -->
+  <p>
+    <a class="right" href="{link}" target="_blank" style="background-color: {bgcolor}; background-image: {bgimage}; color: {color}; font-family: {font}; font-size: {fsize};">
+      <xsl:value-of select="title"/>
+    </a>
+  </p>
 	</xsl:for-each>
 	</div>
 
