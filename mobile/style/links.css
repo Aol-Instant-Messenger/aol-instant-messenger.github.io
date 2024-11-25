@@ -8,6 +8,10 @@
     font-family: Belarus;
     src: url(../../fonts/Belarus.woff2);
 }
+@font-face {
+    font-family: Audiowide;
+    src: url(../../fonts/Audiowide.woff2);
+}
 
 body {
     text-align: left;
