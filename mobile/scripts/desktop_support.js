@@ -1,3 +1,3 @@
 if (!/Mobi|Android/i.test(navigator.userAgent)) {
-    window.location.replace("../Support.xml");
+    window.location.replace("../support.xml");
 }
