@@ -19,6 +19,14 @@
             <fsize>25px</fsize>
         </item>
         <item>
+            <title>Pronouns.page</title>
+            <link>https://pronouns.page/@phleggmboi</link>
+            <bgimage>url(/icon/bg.png)</bgimage>
+            <color>#c71585</color>
+            <font>Quicksand, calibri, sans-serif</font>
+            <fsize>22px</fsize>
+        </item>
+        <item>
             <title>BEATLEADER</title>
             <link>https://beatleader.xyz/u/phleggmboi</link>
             <bgimage>linear-gradient(175grad, #d90f41, #de0b54, #e4066d, #e9037e, #eb0189, #ec008c, #e9028d, #e10892, #d31399, #bf23a4, #a537b1, #8450c2, #5f6dd5, #4184e5)</bgimage>

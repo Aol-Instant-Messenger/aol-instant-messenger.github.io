@@ -12,6 +12,10 @@
     font-family: Audiowide;
     src: url(../fonts/Audiowide.woff2);
 }
+@font-face {
+    font-family: Quicksand;
+    src: url(../fonts/Quicksand.woff2);
+}
 
 body {
     text-align: left;
