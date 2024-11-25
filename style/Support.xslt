@@ -15,6 +15,8 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
         <h3>
             Ads
         </h3>
+
+        
         <script async="true" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7334286159966891"
      crossorigin="anonymous"></script>
 <!-- Horizontal banner -->
@@ -27,6 +29,19 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+<script async='true' src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7334286159966891"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7334286159966891"
+     data-ad-slot="9230816353"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
         <button class="index" onclick="window.location.href='/';" style="background-color: #444444; color: whitesmoke;">
             Homepage
         </button>
