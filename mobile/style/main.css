@@ -17,6 +17,11 @@ p {
     margin: 1em 3% 2%;
 }
 
+button.ads {
+    background-color: black;
+    color: black;
+}
+
 button.about {
     background-color: white;
     position:fixed;
