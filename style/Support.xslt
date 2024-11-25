@@ -16,7 +16,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
             Ads
         </h3>
 
-        
+
         <script async="true" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7334286159966891"
      crossorigin="anonymous"></script>
 <!-- Horizontal banner -->
@@ -40,6 +40,8 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+<script async='true' src="https://fundingchoicesmessages.google.com/i/pub-7334286159966891?ers=1"></script><script>(function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})();</script>
 
 
         <button class="index" onclick="window.location.href='/';" style="background-color: #444444; color: whitesmoke;">
