@@ -10,14 +10,23 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <link rel="stylesheet" type="text/css" href="style/About.css"/>
     <link rel="icon" href="icon/something.svg"/>
     <title>Ads</title>
-
-    <meta name="google-adsense-account" content="ca-pub-7334286159966891"></meta>
-
   </head>
     <body style="background-color: #333333; color: whitesmoke;">
         <h3>
             Ads
         </h3>
+        <script async="true" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7334286159966891"
+     crossorigin="anonymous"></script>
+<!-- Horizontal banner -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7334286159966891"
+     data-ad-slot="6848024152"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
         <button class="index" onclick="window.location.href='/';" style="background-color: #444444; color: whitesmoke;">
             Homepage
         </button>
