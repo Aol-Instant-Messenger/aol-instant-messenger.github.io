@@ -6,8 +6,8 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:template match="/">
   <html>
   <head>
-  <script src="scripts/desktop_content.js"></script>
-	<link rel="stylesheet" type="text/css" href="style/content.css"/>
+  <script src="scripts/desktop_links.js"></script>
+	<link rel="stylesheet" type="text/css" href="style/links.css"/>
 	<link rel="icon" href="../icon/content.svg"/>
 	<title>My Content</title>
   </head>
