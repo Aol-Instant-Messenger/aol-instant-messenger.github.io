@@ -41,6 +41,29 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+     <p style="color: #bbbbbb;">
+          I've been told that I need text here or content of actual substance, otherwise ads won't show up here.
+     </p>
+     <p style="color: #bbb;">
+          So I guess I'll put some more content in here.
+     </p>
+     <p style="color: #bbb;">
+          I suppose I should do that by thanking you.
+     </p>
+     <p style="color: #bbb;">
+          You went to this page knowing you would be shown ads, just to support me.
+     </p>
+     <p style="color: #bbb;">
+          Just like everyone reading this, I hate ads.
+     </p>
+     <p style="color: #bbb;">
+          But you decided to look at some for my finacial benefit.
+     </p>
+     <br /><br /><br />
+     <p style="color: #bbb;">
+          It means a lot.
+     </p>
+
 <script async='true' src="https://fundingchoicesmessages.google.com/i/pub-7334286159966891?ers=1"></script><script>(function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})();</script>
 
 
