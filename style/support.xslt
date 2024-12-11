@@ -10,63 +10,32 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <link rel="stylesheet" type="text/css" href="style/About.css"/>
     <link rel="icon" href="icon/something.svg"/>
     <title>Ads</title>
+    <style>
+    
+    a.classy:visited, a.classy:link {
+          color: whitesmoke;
+    }
+    a.classy:active {
+          color: #bbb;
+    }
+    </style>
   </head>
     <body style="background-color: #333333; color: whitesmoke;">
         <h3>
             Ads
         </h3>
 
-
-        <script async="true" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7334286159966891"
-     crossorigin="anonymous"></script>
-<!-- Horizontal banner -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7334286159966891"
-     data-ad-slot="6848024152"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<script async='true' src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7334286159966891"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7334286159966891"
-     data-ad-slot="9230816353"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
      <p style="color: #bbbbbb;">
-          I've been told that I need text here or content of actual substance, otherwise ads won't show up here.
+          I plan on making a ko-fi at some point in the future to support what I do more directly, but for now, I have implemented google ads on the homepage of my website.
      </p>
      <p style="color: #bbb;">
-          So I guess I'll put some more content in here.
+          Until then, my suggestion for supporting me would be to simply engage with my content, or, if you're willing, to turn off your adblocker on my website.<br />
+          I try to make the ads the least intrusive they can be, so that you won't have to think about it much when you're on my website.<br/>
      </p>
      <p style="color: #bbb;">
-          I suppose I should do that by thanking you.
+          And if you get annoyed with the ads, use an adblocker.<br />
+          I recommend <a class="classy" href="https://github.com/gorhill/uBlock/tree/master/dist" target="_blank">uBlock Origin</a>
      </p>
-     <p style="color: #bbb;">
-          You went to this page knowing you would be shown ads, just to support me.
-     </p>
-     <p style="color: #bbb;">
-          Just like everyone reading this, I hate ads.
-     </p>
-     <p style="color: #bbb;">
-          But you decided to look at some for my finacial benefit.
-     </p>
-     <br /><br /><br />
-     <p style="color: #bbb;">
-          It means a lot.
-     </p>
-
-<script async='true' src="https://fundingchoicesmessages.google.com/i/pub-7334286159966891?ers=1"></script><script>(function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})();</script>
-
-
         <button class="index" onclick="window.location.href='/';" style="background-color: #444444; color: whitesmoke;">
             Homepage
         </button>
