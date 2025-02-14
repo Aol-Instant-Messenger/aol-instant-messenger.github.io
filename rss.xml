@@ -6,12 +6,15 @@
         <link>https://aol-instant-messenger.github.io/</link>
         <description>News of upcoming / newly released projects and other important things</description>
         <language>en</language>
+
+        <item>
+            <title>Test</title>
+            <description>This is a test.</description>
+            <pubDate>Thursday, 13 February 2025 20:15:00 PST</pubDate>
+            <content:encoded>
+                <![CDATA[ This is a test.]]>
+            </content:encoded>
+        </item>
+        
     </channel>
-    <item>
-    <title>Test</title>
-    <description>This is a test.</description>
-    <pubDate>Thursday, 13 February 2025 20:15:00 PST</pubDate>
-    </item>
-
-
 </rss>
