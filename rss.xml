@@ -16,7 +16,7 @@
             <content:encoded>
                 <![CDATA[ I made an RSS feed! <br /> 
                 You're looking at it right now. <br />
-                Are you proud of me? <br />
+                Are you proud of me? <br /> <br /> <br />
                 <span style="font-size: 8pt;">please say yes</span>]]>
             </content:encoded>
         </item>
