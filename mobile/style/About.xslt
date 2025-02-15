@@ -9,7 +9,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <script src="scripts/desktop_about.js"></script>
     <script src="../scripts/age.js"></script>
     <link rel="stylesheet" href="style/About.css"/>
-    <link rel="icon" href="../icon/nothing.svg"/>
+    <link rel="icon" href="../icon/logo.svg"/>
     <title>About Me</title>
   </head>
   <body>

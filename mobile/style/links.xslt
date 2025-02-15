@@ -8,7 +8,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <head>
   <script src="scripts/desktop_links.js"></script>
 	<link rel="stylesheet" type="text/css" href="style/links.css"/>
-	<link rel="icon" href="../icon/content.svg"/>
+	<link rel="icon" href="../icon/logo.svg"/>
 	<title>My Content</title>
   </head>
   <body>

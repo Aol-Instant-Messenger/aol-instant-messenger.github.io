@@ -21,5 +21,15 @@
             </content:encoded>
         </item>
 
+        <item>
+            <title></title>
+            <description></description>
+            <pubDate></pubDate>
+            <guid isPermaLink="false">0000000001</guid>
+            <content:encoded>
+                <![CDATA[ ]]>
+            </content:encoded>
+        </item>
+
     </channel>
 </rss>
