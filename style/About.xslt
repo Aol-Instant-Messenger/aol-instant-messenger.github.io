@@ -14,7 +14,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   </head>
   <body>
     <h3>About Me</h3>
-    <p>I'm some <script>document.write(years + " year old");</script> that makes content online</p>
+    <p>I'm some <script>document.write(years + " year old");</script> that has a presence online</p>
     <p>That's right! I'm <script>document.write(legality);</script>!</p>
     <p><script>creeps();</script></p>
     <button class="index" onclick="window.location.href='/';">
